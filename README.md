@@ -1,4 +1,4 @@
-# Video Speed Controller Documentation
+# Video Speed Controller
 
 ## Introduction
 - Overview of the Video Speed Controller website
@@ -8,7 +8,7 @@
 - Prerequisites (e.g., web browser, internet connection)
 - Running the application locally
 
-## Usage
+## Usage and Documentation
 - Overview of the user interface and its components
 - Step-by-step guide on how to use the Video Speed Controller
   - How to select a video
